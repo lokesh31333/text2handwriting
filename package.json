@@ -14,17 +14,20 @@
     "cy": "cypress open",
     "dev": "serve ."
   },
+  "scripts": {
+  "start": "node index.js"
+},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/saurabhdaware/text-to-handwriting.git"
   },
   "keywords": [],
-  "author": "Saurabh Daware <saurabhdaware99@gmail.com> (https://saurabhdaware.in/)",
-  "license": "MIT",
+  "author": "lokesh",
+  "license": "s",
   "bugs": {
-    "url": "https://github.com/saurabhdaware/text-to-handwriting/issues"
+    "url": "sdf"
   },
-  "homepage": "https://github.com/saurabhdaware/text-to-handwriting#readme",
+  "homepage": "l.com",
   "devDependencies": {
     "cypress": "^4.4.1",
     "eslint": "^7.0.0",
