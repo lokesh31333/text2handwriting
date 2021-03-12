@@ -15,7 +15,7 @@
     "dev": "serve ."
   },
   "scripts": {
-  "start": "node index.js"
+  "start": "npm run dev"
 },
   "repository": {
     "type": "git",
